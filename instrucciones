@@ -1,0 +1,7 @@
+// Instrucciones 
+
+1.- Contar con Node.JS instalado 
+2.- Acceder a la ubicacion de la carpeta ROCKETCODEAPI en Terminal
+3.- Ejecutar el comando node . o de contar con nodemon puedes ejecutar el comando nodemon
+4.- ahora podemos hacer uso de nuestras rutas en http://localhost:3050
+
